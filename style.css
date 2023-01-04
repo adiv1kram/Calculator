@@ -21,7 +21,13 @@ body {
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
-.buttons div {
+.buttons > div {
     border-top: 1px solid #999;
     border-right: 1px solid #999;
+}
+.button{
+    border :0.5px ;
+    line-height: 100px;
+    text-align:center;
+    cursor: pointer;
 }
