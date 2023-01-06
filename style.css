@@ -1,6 +1,6 @@
-body {
-    background: #eb94ab
-}
+/* body {
+     background: #eb94ab 
+} */
 .container{
     max-width: 400px;
     margin: 10vh auto 0 auto;
@@ -30,4 +30,8 @@ body {
     line-height: 100px;
     text-align:center;
     cursor: pointer;
+}
+
+#equal {
+    background-color: ;
 }
